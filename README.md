@@ -13,6 +13,7 @@ Some papers are conducted by many institutions together, and we can only include
   - [**Risk Management**](#risk-management)
   - [**Blockchain**](#blockchain)
   - [**Quantum Money**](#quantum-money)
+  - [Quantum Inspired Algorithm (Norm-Sampling)](#quantum-inspired-algorithm-norm-sampling)
   - [**Others**](#others)
     - [**Predicting Financial Crashes**](#predicting-financial-crashes)
     - [**Transaction Settlement**](#transaction-settlement)
@@ -23,6 +24,7 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2018]** **"Quantum computational finance: quantum algorithm for portfolio optimization."** (P. Rebentrost and S. Lloyd) [CQT - NUS, MIT], [arXiv](https://arXiv.org/pdf/1811.03975).
   - First to present a quantum algorithm for portfolio optimization
   - Gate-based quantum computer
+- **[2019]** **"Quantum-inspired algorithms in practice."** (Arrazola, J. M., Delgado, A., Bardhan, B. R., & Lloyd, S.)[arXiv](https://arxiv.org/abs/1905.10415)
 - **[2019]** **"Reverse Quantum Annealing Approach to Portfolio Optimization Problems."** (D. Venturelli and A. Kondratyev) [USRA, Standard Chartered Bank], [Quantum Machine Intelligence](https://link.springer.com/article/10.1007/s42484-019-00001-w).
   - investigate a hybrid quantum-classical solution method to the mean-variance portfolio optimization problems
 - **[2019]** **"Quantum Algorithms for Portfolio Optimization."** (I. Kerenidis, A. Prakash, and D. Szilágyi) [CNRS], [Proceedings of the 1st ACM Conference on Advances in Financial Technologies](https://dl.acm.org/doi/pdf/10.1145/3318041.3355465).
@@ -43,7 +45,7 @@ Some papers are conducted by many institutions together, and we can only include
   - Gate-based quantum computer
 - **[2022]** **"Constrained Quantum Optimization for Extractive Summarization on a Trapped-ion Quantum Computer."** (P. Niroula et al.) [JP Morgan Chase Bank, University of Maryland], [Scientific Reports](https://www.nature.com/articles/s41598-022-20853-w).
 - **[2022]** **A Quantum Online Portfolio Optimization Algorithm."** (D. Lim and P. Rebentrost) [CQT - NUS], [arXiv](https://arXiv.org/pdf/2208.14749).
-- 
+
   <!-- - give a sampling version of an existing classical online portfolio optimization algorithm while using a sampling procedure to reduce transaction costs the most by only investing one asset at each time point
   - The updating strategy “Erroneous exponentiated gradient update” needs an inner product process which can be speeded by quantum computing techniques. -->
   <!-- - Limitation: the updating strategy is based on single-asset price without considering potential risks and correlations between assets. -->
@@ -108,6 +110,19 @@ Some papers are conducted by many institutions together, and we can only include
 - **[2022]** **"Another Round of Breaking and Making Quantum Money: How to Not Build It from Lattices, and More."** (Montgomery, Hart, Jiahui Liu, and Mark Zhandry.)[UTA, Linux & Fujitsu, NTT], [arXiv](https://arxiv.org/abs/2211.11994).   
 ---
 
+### Quantum Inspired Algorithm (Norm-Sampling)
+- **[2018] “A quantum-inspired classical algorithm for recommendation systems.”** (Ewin Tang) [arXiv](https://arxiv.org/pdf/1807.04271.pdf).
+- **[2019] “Quantum-inspired algorithms in practice.”** (Juan Miguel Arrazola, Alain Delgado, Bhaskar Roy Bardhan, Seth Lloyd) [arXiv](https://arxiv.org/abs/1905.10415).
+- **[2019] “A quantum-inspired classical algorithm for recommendation systems using the L2-norm.”** (Ewin Tang)** [ACM Digital Library](https://dl.acm.org/doi/10.1145/3313276.3316310).
+- **[2019] “Faster Quantum-inspired Algorithms for Solving Linear Systems.”** (Changpeng Shao, Ashley Montanaro) [ACM Digital Library](https://dl.acm.org/doi/10.1145/3520141)
+- **[2020] “Quantum Algorithms for Machine Learning and Optimization.”** (Sangeetha P; Prameela Kumari) [IEEE](https://ieeexplore.ieee.org/document/9315301).
+- **[2021] “Quantum-inspired algorithms for multivariate analysis: from classical to quantum and back.”** (Juan José García-Ripoll) [Quantum Journal](https://quantum-journal.org/papers/q-2021-04-15-431/)
+- **[2021] “Quantum-inspired support vector machine.”**  (Ding, C., Bao, T. Y., & Huang, H. L. ) [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/iel7/5962385/9966944/09451546.pdf)
+- **[2022] “Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning.”** (Chia, N. H., Gilyén, A. P., Li, T., Lin, H. H., Tang, E., & Wang, C.) [Journal of the ACM](https://dl.acm.org/doi/full/10.1145/3549524)
+- **[2022] "An improved quantum-inspired algorithm for linear regression."** (Gilyén, A., Song, Z., & Tang, E. ) [Quantum](https://quantum-journal.org/papers/q-2022-06-30-754/)
+- **[2023] "A CS guide to the quantum singular value transformation."**  (Tang, E., & Tian, K.) [arXiv](https://arxiv.org/abs/2302.14324)
+
+---
 ### **Others**
 #### **Predicting Financial Crashes**
 -  **[2019]** **"Forecasting financial crashes with quantum computing."** (R. Orus, S. Mugel, and E. Lizaso) [Multiverse Computing, etc.], [Physical Review A](https://link.aps.org/pdf/10.1103/PhysRevA.99.060301)
@@ -120,4 +135,5 @@ Some papers are conducted by many institutions together, and we can only include
 
 #### **Quantum Accounting**
 - **[2022]** **"Entropy, Double Entry Accounting and Quantum Entanglement."** (J. C. Fellingham, H. Lin, and D. Schroeder) [Fisher College of Business, The Ohio State University], [Foundations and Trends® in Accounting](https://www.nowpublishers.com/article/Download/ACC-069).
+
 
